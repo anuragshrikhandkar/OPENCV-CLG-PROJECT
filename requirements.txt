@@ -1,0 +1,8 @@
+mediapipe
+pyoutogui
+scipy
+comtypes
+pycaw
+numpy
+pynput
+webbrowser
